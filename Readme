@@ -1,0 +1,2 @@
+This is a wave mixer which performs various operation on a .wav file like time shifting,amplitude scaling,time scaling
+mixing of two or more waves, modulating etc.
